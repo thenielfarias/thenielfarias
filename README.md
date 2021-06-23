@@ -1,6 +1,6 @@
 
 ### Hi 👋
-I'm a data science student. Here you can take a look at the repositories for my code samples.
+I'm a Data Science student and love programming.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenielfarias&theme=tokyonight)
 
