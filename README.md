@@ -1,6 +1,6 @@
 
 ### Hi 👋
-I'm a Data Science student and love programming.
+I'm a Data Science student and love programming. Here you will find code repositories of projects and samples developed by me.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenielfarias&theme=tokyonight)
 
