@@ -14,3 +14,5 @@ Kaggle: https://www.kaggle.com/thenielfarias
 <a href="https://hub.docker.com/u/thenielfarias" target="_blank">Docker Hub</a>
 
 <a href="https://www.kaggle.com/thenielfarias" target="_blank">Kaggle</a>
+
+<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>
